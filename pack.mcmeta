@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "pack_format": 56,
+        "supported_formats": [5, 56],
+        "description": "17x17 command block!"
+    }
+}
